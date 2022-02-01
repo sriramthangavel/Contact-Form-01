@@ -1,0 +1,60 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    min-width: 100%;
+    overflow-x: hidden;
+    background-color: #cfe8ee;
+}
+
+form{
+    border: 1px solid black;
+    width: 370px;
+    height: 180px;
+    padding: 20px;
+    padding-top: 15px;
+    padding-bottom: 70px;
+    margin-left: 370px;
+    margin-top: 150px;
+    border-radius: 8px;
+    background-color: white;
+    align-content: center;
+    
+}
+div{
+    padding-left: 115px;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+ button{
+     background-color: rgb(223, 138, 226);
+     color: white;
+     margin: 10px;
+     width: 351px;
+     border-radius: 5px;
+     height: 26px;
+     border: 0px;
+    
+ }
+.name{
+    margin: 10px;
+    size: 30px;
+    border-radius: 3px;
+    width: 154px;
+    height: 26px;
+
+}
+.email{
+    margin: 10px;
+    width: 341px;
+    border-radius: 3px;
+    height: 26px;
+
+}
+.mobileno{
+    margin: 10px;
+    width: 344px;
+    border-radius: 3px;
+    height: 26px;
+
+}
